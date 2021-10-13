@@ -14,7 +14,8 @@
  
 #For Termux
 > 
- < alt= "𝔗𝔢𝔯𝔪𝔲𝔵 𝔖𝔢𝔱-𝔘𝔭" width=400" />
+# **𝔗𝔢𝔯𝔪𝔲𝔵 𝔖𝔢𝔱-𝔘𝔭**
+
 ```sh
 > termux-setup-storage
 > cd /sdcard
@@ -26,5 +27,11 @@
 > scan the QR
 > Done✅
 ```
+
+### Contact me
+
+- [TELEGRAM](https://t.me/sickcell)
+- [WHATSAPP](http://wa.me/917034854686)
+
 
 
