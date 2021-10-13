@@ -1,5 +1,3 @@
-<div align="center">
-<img src="https://i.imgur.com/QZTvN7f.jpeg" alt="Bosco" width="500" />
 
 # BoscoBot
 
@@ -7,14 +5,14 @@
 >
 >
 
-<h3 align="center">𝙈𝙖𝙙𝙚 𝘽𝙮 𝘿𝙚𝙣𝙞𝙨 𝙎𝙚𝙧</h3>
+
 
 
 > Video Tutorial :-https://youtu.be/L8E4enqfYik
  
 #For Termux
 > 
-# **𝔗𝔢𝔯𝔪𝔲𝔵 𝔖𝔢𝔱-𝔘𝔭**
+# 
 
 ```sh
 > termux-setup-storage
