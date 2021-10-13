@@ -15,7 +15,7 @@
 #For Termux
 > 
  < alt= "𝔗𝔢𝔯𝔪𝔲𝔵 𝔖𝔢𝔱-𝔘𝔭" width=400" />
-
+```sh
 > termux-setup-storage
 > cd /sdcard
 > cp -r Bosco $HOME [Download This File and Extract First]
@@ -25,5 +25,6 @@
 > npm start
 > scan the QR
 > Done✅
+```
 
 
