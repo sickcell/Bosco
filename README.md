@@ -11,6 +11,7 @@ BoscoBot is a whatsapp web bot that can be hosted by termux
 
 - [@DenisSer07](https://github.com/DenisSer07)
 
+> Video Tutorial:- https://youtu.be/L8E4enqfYik
   
 ## Deployment
 
